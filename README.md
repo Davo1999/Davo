@@ -1,2 +1,1 @@
-# Davo
-Repository
+It's my first repository
